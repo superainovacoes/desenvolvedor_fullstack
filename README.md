@@ -30,7 +30,9 @@ Na funcionalidade de produtos, você deverá desenvolver todas as funções de m
 
 Você deverá criar um banco de dados SQL Server com uma tabela chamada produto, composta pelos campos necessários para atender a tela.
 
-No final você deverá enviar o script de criação do banco e o projeto.sln.
+# Output
+
+Após concluir o teste, você deve enviar o script de criação do banco e o projeto.sln compactados.
 
 # Critérios de avaliação
 
