@@ -20,6 +20,8 @@ API de login:
  - Verbo: POST
  - Encoding: UTF8
  - Autenticação: HTTP Basic Authentication
+ - Exemplo de retorno: 
+ ![Exemplo de retorno - API de login](https://raw.githubusercontent.com/superainovacoes/desenvolvedor_fullstack/master/test_response.png)
 
 ## Produtos
 Na funcionalidade de produtos, você deverá desenvolver todas as funções de manutenção do cadastro (CRUD), inserção, edição, exclusão e listagem. Para o cadastro do produto apenas os seguintes campos são necessários: Nome do Produto, Valor de Venda e Imagem.
@@ -30,9 +32,9 @@ No final você deverá enviar o script de criação do banco e o projeto.sln.
 
 # Critérios de avaliação
 
-Entendimento da solução: o que foi desenvolvido está adequado ao solicitado;
-Domínio das plataformas: os recursos providos pela plataforma foram utilizados da maneira correta;
-Legibilidade de código: deve ser limpo e seguir padrões SOLID;
-Utilização de patterns: utilizar patterns nos lugares corretos e com a finalidade adequada;
+ - Entendimento da solução: o que foi desenvolvido está adequado ao solicitado;
+ - Domínio das plataformas: os recursos providos pela plataforma foram utilizados da maneira correta;
+ - Legibilidade de código: deve ser limpo e seguir padrões SOLID;
+ - Utilização de patterns: utilizar patterns nos lugares corretos e com a finalidade adequada;
 
 
