@@ -21,6 +21,8 @@ API de login:
  - Encoding: UTF8
  - Autenticação: HTTP Basic Authentication
  - Exemplo de retorno: 
+
+
  ![Exemplo de retorno - API de login](https://raw.githubusercontent.com/superainovacoes/desenvolvedor_fullstack/master/test_response.png)
 
 ## Produtos
