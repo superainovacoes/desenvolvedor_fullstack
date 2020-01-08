@@ -14,7 +14,7 @@ As ferramentas e tecnologias necessárias para realização do teste:
 # Detalhes
 
 ## Login
-A tela de autenticação deve ser apenas composta pelos campos login e senha. Quando o usuário informar esses dados você deverá verificar se os dados são válidos realizando um post para a API "http://dev.sitemercado.com.br/api/login" e o retorno deverá ser tratado conforme o JSON na imagem abaixo. Se o usário e senha forem válidos, você deverá redirecionar o usuário para a tela de cadastro de produtos, caso contrário, retornar a mensagem retornada pela API para o usuário.
+A tela de autenticação deve ser apenas composta pelos campos login e senha. Quando o usuário informar esses dados você deverá verificar se os dados são válidos realizando um post para a API "https://dev.sitemercado.com.br/api/login" e o retorno deverá ser tratado conforme o JSON na imagem abaixo. Se o usário e senha forem válidos, você deverá redirecionar o usuário para a tela de cadastro de produtos, caso contrário, retornar a mensagem retornada pela API para o usuário.
 
 API de login:
  - Verbo: POST
